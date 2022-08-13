@@ -1,0 +1,89 @@
+body{
+    background-color: #AFB4FF;
+}
+h1{
+    color: white;
+}
+textarea{
+    color: solid black;
+    background-color: #A66CFF;
+    margin-top: 20px;
+    margin-left: 140px;
+}
+label{
+    position: absolute;
+    color: white;
+    
+}
+.Gclass{
+    margin-left: 35px;
+}
+.addtext{
+    top:0%;
+    margin-top: 235px;
+}
+.Mlabel{
+    margin-left: 130px;
+}
+.felabel{
+    margin-left:5px;
+}
+.olabel{
+    margin-left: 10px;
+}
+.Citylabel{
+    margin-left: 0px;
+    text-align: left;
+    margin-right: 300px;
+}
+::placeholder{
+    color: white;
+}
+input{
+    margin-left: 190px;
+    background-color: #A66CFF;
+    color: white
+}
+.Fnclass{
+    margin-left: 140px;
+}
+.Lnclass{
+    margin-left: 140px;
+}
+.Mclass{
+    margin-left: 175px;
+}
+.Fclass{
+    margin-left: 60px;
+}
+.Oclass{
+    margin-left: 50px;
+}
+.pclass{
+    margin-left: 130px;
+}
+.fileclass{
+    margin-left: 140px;
+}
+.checkclass{
+    margin-left: 140px;
+}
+button{
+    margin-left: 180px;
+    margin-top: 60px;
+    background-color: #A66CFF;
+    border-style: hidden;
+    border-radius: 4px;
+    height: 25px;
+    
+}
+button:hover{
+    background-color: #ab75fc;
+}
+
+
+select{
+    margin-left: 90px;
+    color: white;
+    background-color: #A66CFF;
+}
